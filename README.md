@@ -2,12 +2,15 @@
 
 This refactor of the Horiseon webpage accomplishes the following:
 
-Markup : * Bullet List
 
 *Addition of semantic elements for improved accessibility.
+
 *Consolidation of several redundant CSS classes.
+
 *Reorganization of style.css classes to better match index.html.
+
 *Addition of notes to index.html to indicate purpose of code.
+
 *Removal of non-functioning code from index.html
 
 ![code refactor demo](./assets/images/website.png)
